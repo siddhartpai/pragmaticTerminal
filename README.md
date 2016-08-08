@@ -5,6 +5,6 @@ Prints pragmatic tips to your terminal
 
 Print by adding 
 
-node prag.js
+node prag.js to your .bashrc
 
 
