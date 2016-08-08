@@ -1,0 +1,18 @@
+{
+  "name": "pragmatic",
+  "version": "1.0.0",
+  "description": "Prints pragmatic tips",
+  "main": "prag.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "localstorage": "^0.1.0",
+    "node-localstorage": "^1.3.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
